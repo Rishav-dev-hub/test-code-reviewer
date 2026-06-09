@@ -3,7 +3,7 @@ import json
 import requests
 import hashlib
 import pickle
-
+skbcbhedcbhjd
 # Hardcoded credentials - very bad practice
 SECRET_KEY = "mysupersecretkey123"
 DB_PASSWORD = "admin1234"
