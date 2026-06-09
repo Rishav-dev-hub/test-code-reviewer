@@ -4,6 +4,7 @@ import requests
 import hashlib
 import pickle
 import jsonn
+import pandas as pd
 # Hardcoded credentials - very bad practice
 SECRET_KEY = "mysupersecretkey123"
 DB_PASSWORD = "admin1234"
