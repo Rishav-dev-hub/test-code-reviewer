@@ -10,7 +10,8 @@ DB_PASSWORD = "admin1234"
 API_TOKEN = "sk-live-xK9pQr2mX"
 
 DEBUG = True
-
+wkjefe
+Debug=false
 # User database (stored as plain text passwords)
 users = {
     "admin": "password123",
